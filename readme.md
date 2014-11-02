@@ -20,9 +20,13 @@ To build from source, open this folder in NetBeans.
 
 From this application, user can monitor opened application and close them or close all of them. This application has a scroll bar and, therefore, is capable of displaying big number of application titles.
 
+![](/documentation/taskmgr.png?raw=true)
+
 ### Home
 
 The home screen has launcher icons aligned to the grid. The position of these icons are fixed and cannot be rearranged.
+
+![](/documentation/home.png?raw=true)
 
 ### Messaging
 
@@ -32,21 +36,33 @@ The messaging app has not been implemented at the moment.
 
 The phone application has a custom dial pad consisting of numeric, backspace, `*`, and `#`. The phone calls are not simulated and thus no answers will be received.
 
+![](/documentation/phone.png?raw=true)
+
 ### Contacts
 
 Each contact has the following fields: name, phone numbers, and addresses. User can search for a contact and call or text them.
+
+![](/documentation/contacts.png?raw=true)
+
+![](/documentation/contacts_2.png?raw=true)
 
 ### Memo
 
 The memo application let you write multiple memos. Each memo has a title and a body.
 
+![](/documentation/memo.png?raw=true)
+
 ### Calculator
 
 The calculator supports four basic arithmetic operations and a custom keyboard (numeric, backspace, clear, `.`, `+`, `−`, `×`, and `÷`).
 
+![](/documentation/calculator.png?raw=true)
+
 ### Clock
 
 The clock application features three tabs: digital clock, stopwatch, and timer.
+
+![](/documentation/clock.png?raw=true)
 
 ### Keyboard
 
