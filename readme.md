@@ -20,13 +20,13 @@ To build from source, open this folder in NetBeans.
 
 From this application, user can monitor opened application and close them or close all of them. This application has a scroll bar and, therefore, is capable of displaying big number of application titles.
 
-![](https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/taskmgr.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/taskmgr.png)
 
 ### Home
 
 The home screen has launcher icons aligned to the grid. The position of these icons are fixed and cannot be rearranged.
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/home.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/home.png)
 
 ### Messaging
 
@@ -36,33 +36,33 @@ The messaging app has not been implemented at the moment.
 
 The phone application has a custom dial pad consisting of numeric, backspace, `*`, and `#`. The phone calls are not simulated and thus no answers will be received.
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/phone.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/phone.png)
 
 ### Contacts
 
 Each contact has the following fields: name, phone numbers, and addresses. User can search for a contact and call or text them.
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/contacts.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/contacts.png)
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/contacts_2.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/contacts_2.png)
 
 ### Memo
 
 The memo application let you write multiple memos. Each memo has a title and a body.
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/memo.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/memo.png)
 
 ### Calculator
 
 The calculator supports four basic arithmetic operations and a custom keyboard (numeric, backspace, clear, `.`, `+`, `−`, `×`, and `÷`).
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/calculator.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/calculator.png)
 
 ### Clock
 
 The clock application features three tabs: digital clock, stopwatch, and timer.
 
-https://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/clock.png)
+![](https:://raw.githubusercontent.com/samuelgunadi/smartphonesimulator/master/documentation/clock.png)
 
 ### Keyboard
 
